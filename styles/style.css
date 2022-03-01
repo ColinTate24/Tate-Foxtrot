@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand&family=Roboto&display=swap");
+
+body {
+  background-image:
+  url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.1-Pzad1UbBILP40tlESnaAHaDY%26pid%3DApi&f=1);
+  }
+  
+h3,
+label,
+p {
+  background-color: #fff;
+}
+
+h3 {
+  color: green;
+  /*   font-family: "Roboto", sans-serif; */
+  font-family: "Quicksand", sans-serif;
+}
+
+.card {
+  margin-top: 1rem;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
